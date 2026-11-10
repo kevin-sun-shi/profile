@@ -1,0 +1,6 @@
+{
+  "name": "Shikaiwen Sun — Music Tech & AI Portfolio",
+  "description": "Personal portfolio and academic research website of Shikaiwen Sun (孙施凯文), M.M. student in Music Technology at NYU, composer, pianist, and AI music researcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
