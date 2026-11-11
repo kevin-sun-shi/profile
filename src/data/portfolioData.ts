@@ -3,8 +3,8 @@ import { ProjectItem, EducationItem, ExperienceItem, PublicationItem } from '../
 export const PERSONAL_INFO = {
   nameEn: 'Shikaiwen Sun',
   nameZh: '孙施凯文',
-  avatarUrl: '/assets/aistudio/3574_2a5653c6.JPG',
-  cvPdfUrl: '/assets/aistudio/cv__2__f323ef11.pdf',
+  avatarUrl: './assets/aistudio/3574_2a5653c6.JPG',
+  cvPdfUrl: './assets/aistudio/cv__2__f323ef11.pdf',
   currentRoleEn: 'Graduate Student in Music Technology @ NYU Steinhardt',
   currentRoleZh: '纽约大学音乐科技硕士在读 (NYU Steinhardt)',
   heroTaglineEn: 'Composer, Pianist & Music AI Researcher bridging complex rhythmic structures, generative models, and human-AI co-creation.',
